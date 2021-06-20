@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋. Thanks for opening my profile. 
 
 <!--
 **Goutham88/Goutham88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- I work at Microsoft.
+- I have completed by B.Tech in Computer Science at NIT Bhopal, India.
+- I have some knowledge in Python, Data Structures, and Algorithms.
+- I’m currently learning C#, .NET Framework.
+- I have two medium term goals
+- 1. Create a complete OS from scratch, and
+- 2. Create a Virtual Assistant for myself. (J.A.R.V.I.S 😜)
+- How to reach me: [LinkedIn](https://linkedin.com/in/goutham8), [Instagram](https://www.instagram.com/goutham_chunduru/), [Twitter](https://twitter.com/GouthamChunduru)
+- 
