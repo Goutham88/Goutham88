@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 Some of the quotes I like -
 > No amount of money ever bought a second of time.
+
 > What you give is what you get.
+
 > Don't act, talk. Don't say, show. Don't promise, prove.
+
 > Dignity is not in possession but in deserving
+
 > Give more than you take.
