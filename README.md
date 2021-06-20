@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - I have some knowledge in Python, Data Structures, and Algorithms.
 - I’m currently learning C#, .NET Framework.
 - I have two medium term goals
-- 1. Create a complete OS from scratch, and
-- 2. Create a Virtual Assistant for myself. (J.A.R.V.I.S 😜)
+1. Create a complete OS from scratch, and
+2. Create a Virtual Assistant for myself. (J.A.R.V.I.S 😜)
 - How to reach me: [LinkedIn](https://linkedin.com/in/goutham8), [Instagram](https://www.instagram.com/goutham_chunduru/), [Twitter](https://twitter.com/GouthamChunduru)
-- 
